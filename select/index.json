@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "WHEN THE SUN GOES DOWN(EXTENDED ver.)",
+  "base_artist": "KEN BLAST",
+  "createdAt": "2025-12-11T14:56:01.461252Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When The Sun Goes Down - Extended Ver.",
+      "artist": "KEN BLAST",
+      "has_synced": false,
+      "path": "select/01_When_The_Sun_Goes_Down_-_Extended_Ver._KEN_BLAST.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "When The Sun Goes Down - Extended Ver.",
+      "artist": "KEN BLAST",
+      "has_synced": false,
+      "path": "select/pl_01_When_The_Sun_Goes_Down_-_Extended_Ver._KEN_BLAST.txt"
+    }
+  ]
+}
